@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+# Eval run outputs (skill-creator convention: <skill-name>-workspace/ next to the skill)
+*-workspace/
